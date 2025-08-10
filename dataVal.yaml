@@ -1,0 +1,5 @@
+train: C:/Users/akra0003/Desktop/JuypterInterior/train/images
+val: C:/Users/akra0003/Desktop/JuypterInterior/valid/images
+test: C:/Users/akra0003/Desktop/JuypterInterior/test/images
+nc: 8
+names: ["door", "cabinetDoor", "refrigeratorDoor", "window", "table", "cabinet", "openedDoor", "pole"]
